@@ -1,4 +1,4 @@
-# aipokertutorial
+# AI Poker Tutorial
 
 I learned about [this AI Poker Tutorial](https://aipokertutorial.com/) and thought it would be cool to run through it using ChatGPT as a guide. I've set up a project in ChatGPT, given it instructions to be the author of the tutorial, generate a curriculum (see below), and guide me through lessons as chats within the project.
 
